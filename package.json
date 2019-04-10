@@ -1,7 +1,7 @@
 {
-  "name": "osys_backend",
+  "name": "tpl_nodejs_backend",
   "version": "0.0.1",
-  "description": "OSys Backend",
+  "description": "Template NodeJS Backend",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
